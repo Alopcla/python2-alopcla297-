@@ -41,6 +41,7 @@ def introducirPalabra(lista, palabra):
 def mostrarLista(lista):    
     return print(lista)
 
+# PRINCIPAL FUNCION
 def listadoPalabras():
     lista = []
     longitud = int(input("Introduce un numero: "))
